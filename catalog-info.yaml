@@ -8,6 +8,6 @@ metadata:
     'backstage.io/kubernetes-id': 'sockshop'
     'backstage.io/kubernetes-namespace': sock-shop
 spec:
-  type: library
+  type: website
   owner: team-a
   lifecycle: experimental
