@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: sockshop
+  description:
+    The application is the user-facing part of an online shop that sells socks. It is intended to aid the demonstration and testing of microservice and cloud native technologies.
+  annotations:
+    'backstage.io/kubernetes-namespace': sock-shop
+spec:
+  type: library
+  owner: waveworks
+  lifecycle: experimental
