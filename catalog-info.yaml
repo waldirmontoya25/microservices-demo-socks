@@ -8,5 +8,5 @@ metadata:
     'backstage.io/kubernetes-namespace': sock-shop
 spec:
   type: library
-  owner: waveworks
+  owner: team-a
   lifecycle: experimental
