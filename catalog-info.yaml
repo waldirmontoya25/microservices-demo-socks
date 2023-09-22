@@ -5,6 +5,7 @@ metadata:
   description:
     The application is the user-facing part of an online shop that sells socks. It is intended to aid the demonstration and testing of microservice and cloud native technologies.
   annotations:
+    'backstage.io/kubernetes-id': 'sockshop'
     'backstage.io/kubernetes-namespace': sock-shop
 spec:
   type: library
